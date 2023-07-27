@@ -31,7 +31,8 @@ if __name__ == '__main__':
 
 -📫 How to contact me:
   * 📧 Email: 
-              abdurahmonovjamshid060@gmail.com 
+              abdurahmonovjamshid060@gmail.com
+  * 📱 +998909096835
 
 <br><br>
 ### ⚙️ &nbsp;GitHub Analytics
