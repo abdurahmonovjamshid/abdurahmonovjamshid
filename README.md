@@ -33,7 +33,7 @@ if __name__ == '__main__':
   * 📧 Email: 
               abdurahmonovjamshid060@gmail.com
   * 📱 Phone:
-              +998909096835
+              <a href="tel:+998909096835">+998909096835</a>
 
 <br><br>
 ### ⚙️ &nbsp;GitHub Analytics
