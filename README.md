@@ -27,7 +27,7 @@ if __name__ == '__main__':
     me = AbhigyanTrips()
 ````
 
-<br><br>
+<br>
 
 ### :hammer_and_wrench: Languages and Tools :
 
