@@ -5,9 +5,9 @@
 <p>Assalamu alaikum! My name is Abdurahmonov Jamshid Abduraim o'g'li, and I am a Python backend developer with a passion for creating efficient and scalable web applications.</p>
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 <ul>
-  <li>👋 Hi, I am Jamshid</li>
+  <li>👋 Hi, I am Jamshid Abdurahmonov Abduraim o'g'li from Tashkent, Uzbekistan</li>
   <li>❤️ What truly drives me is the art of writing code and transforming ideas into reality.</li>
-  <li>💼 I'm a student</li>
+  <li>💼 I find immense satisfaction in developing real-world projects and continuously refining my skills.</li>
 </ul>
 
 #### A little more about me
