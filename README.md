@@ -29,6 +29,8 @@ if __name__ == '__main__':
 
 <br><br>
 
+### :hammer_and_wrench: Languages and Tools :
+
 -📫 How to contact me:
   * 📧 Email: 
               abdurahmonovjamshid060@gmail.com
