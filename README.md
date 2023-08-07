@@ -6,7 +6,7 @@
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 <ul>
   <li>👋 Hi, I am Jamshid</li>
-  <li>❤️ I love Creating websites and Programming in Python.</li>
+  <li>❤️ What truly drives me is the art of writing code and transforming ideas into reality.</li>
   <li>💼 I'm a student</li>
 </ul>
 
