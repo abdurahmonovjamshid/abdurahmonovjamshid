@@ -5,7 +5,7 @@
 <p>I am a Back-end developer, I'm a Competitive Programmer, I also like to create projects in Python.</p>
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 <ul>
-  <li>👋 Hi, I’m Jamshid</li>
+  <li>👋 Hi, I am a Python backend developer with a passion for creating efficient and scalable web applications</li>
   <li>❤️ I love Creating websites and Programming in Python.</li>
   <li>💼 I'm a student</li>
 </ul>
