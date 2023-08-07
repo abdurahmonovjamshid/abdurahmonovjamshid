@@ -2,10 +2,10 @@
 <p align="center">
   <a align="center"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Back+end+developer;I'm+a+competitive+programmer;I'm+a+Python+developer" /></a>
 </p>
-<p>Assalamu alaikum! My name is Abdurahmonov Jamshid Abduraim o'g'li, and I am a Python backend developer with a passion for creating efficient and scalable web applications.</p>
+<p>Assalamu alaikum! My name is Jamshid Abdurahmonov Abduraim o'g'li, and I am a Python backend developer with a passion for creating efficient and scalable web applications.</p>
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 <ul>
-  <li>👋 Hi, I am Jamshid Abdurahmonov Abduraim o'g'li from Tashkent, Uzbekistan</li>
+  <li>👋 Hi, I am Software developer from Tashkent, Uzbekistan</li>
   <li>❤️ What truly drives me is the art of writing code and transforming ideas into reality.</li>
   <li>💼 I find immense satisfaction in developing real-world projects and continuously refining my skills.</li>
 </ul>
